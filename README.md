@@ -74,18 +74,3 @@ writer-skill/
 
 MIT — 用就完事了。如果对你有帮助，**给个 star** ⭐ 是最大的鼓励。
 
----
-
-<details>
-<summary>📷 怎么把上面的 demo 图贴上去？</summary>
-
-GitHub 贴图最简单的方式：
-
-1. 在 GitHub 网页打开这个 README 的编辑界面（点 README.md 右上角铅笔图标）
-2. **直接把图片拖到编辑框里**，GitHub 会自动上传并生成 URL
-3. 把生成的 `![image](https://...)` 剪切到上面 `<!-- TODO -->` 注释那一行
-4. 保存
-
-不需要 git 操作，30 秒搞定。
-
-</details>
